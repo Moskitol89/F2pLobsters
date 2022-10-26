@@ -1,0 +1,12 @@
+/shelf/
+../out
+misc.xml
+modules.xml
+vcs.xml
+uiDesigner.xml
+workspace.xml
+artifacts
+libraries
+.idea
+# Project exclude paths
+/out/
