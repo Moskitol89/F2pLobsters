@@ -14,6 +14,7 @@ import org.dreambot.api.wrappers.interactive.Player;
 
 @ScriptManifest(category = Category.FISHING, name = "F2pLobsters", description = "free to play lobster farm(fishing 40+)",
         author = "Moskitol89", version = 0.1, image = "")
+
 public class FreeLobsters extends AbstractScript {
     private final Player PLAYER = Players.getLocal();
     private Area sheepToLobstersArea = new Area(3026, 3224, 3029, 3215);
